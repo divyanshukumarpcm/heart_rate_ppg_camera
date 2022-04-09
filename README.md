@@ -30,7 +30,9 @@ OBSERVATION:
 Data is uploaded as image file as observation.png
 
 Mean of all errors: 7.63%
-/home/deep/Pictures/Screenshot from 2022-04-09 18-55-52.png
+
+<img src="/home/deep/Pictures/Screenshot from 2022-04-09 18-55-52.png" />
+
 
 CONCLUSION:
 Position of finger plays important role in data quality, placing finger on camera only gave better results than placing finger on both
