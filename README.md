@@ -20,7 +20,7 @@ Approach:
 10. Then, the signal was squared to elongate it, so that it is easy to determine peaks [ASSUMPTION 2]
 11. A moving average filter was applied to remove any unwanted spikes. The window size was roughly estimated.
 12. The signal was printed for reference.
-13. Peaks were detected and average time between peaks were calculated.
+13. Peaks were detected using peak detection algorithm from SCIPY.SIGNAL library and average time between peaks were calculated.
 14. Heart rate was calculated and compared with real data to calculate error.
 15. The process was repeated for 4 more different person.
 
