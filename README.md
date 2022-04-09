@@ -36,3 +36,10 @@ CONCLUSION:
 Position of finger plays important role in data quality, placing finger on camera only gave better results than placing finger on both
 camera and flash. The pressure applied by finger should be gentle. Flash should be ON otherwise error is more than 25%. 
 Light skin color are better as they let in and out more light. 
+
+
+References:
+
+#https://www.researchgate.net/publication/329896875_Image_Analysis_on_Fingertip_Video_To_Obtain_PPG
+#https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html
+#https://docs.scipy.org/doc/scipy/reference/signal.html
