@@ -27,13 +27,7 @@ Approach:
 
 OBSERVATION:
 
-SERIAL NO.  NAME       AGE    GENDER    CALCULATED HR IN BPM   REAL HR IN BPM    %ERROR mean absolute
-1          divyanshu    22      M		      86		                	84		                2.79
-2	         ratul	      22	    M		      88			                79		                11.39
-3          pranjal      22 	    F		      65			                72		                9.72
-4	         mukib	      23      M         77    			            69		                 11.59
-5          ambarish     22      M         73			                75		                 2.67
-
+Data is uploaded as image file as observation.png
 
 Mean of all errors: 7.63%
 
