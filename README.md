@@ -4,7 +4,7 @@ AIM:
 To Record a 15 second long video by keeping finger over the camera with flash on. To use the video recordings to perform PPG and estimate heart rate.
 
 
-Link to video demonstration: 
+Link to video demonstration: https://youtube.com/shorts/elXEM3nB6Fs
 
 Approach:
 
