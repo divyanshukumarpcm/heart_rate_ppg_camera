@@ -28,6 +28,7 @@ Approach:
 OBSERVATION:
 
 Data is uploaded as image file as observation.png
+Data is for v1 of this code. V2 is much improved.
 
 Mean of all errors: 7.63%
 
